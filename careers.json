@@ -1,0 +1,7 @@
+[
+  {"name":"Software Engineer","interest":"Tech","min_marks":75,"cost":"medium","growth":"high"},
+  {"name":"Data Scientist","interest":"Tech","min_marks":80,"cost":"high","growth":"high"},
+  {"name":"UI/UX Designer","interest":"Creative","min_marks":60,"cost":"low","growth":"medium"},
+  {"name":"Doctor","interest":"Medical","min_marks":90,"cost":"high","growth":"high"},
+  {"name":"Teacher","interest":"General","min_marks":50,"cost":"low","growth":"low"}
+]

@@ -1,0 +1,10 @@
+name: advipilot_openenv
+version: 1.0.0
+description: "AI career decision environment with reasoning and leaderboard"
+
+entry_point: inference.py
+
+tags:
+  - career
+  - education
+  - ai
